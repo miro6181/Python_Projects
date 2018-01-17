@@ -1,0 +1,11 @@
+This is a file in the test file.
+It has 40 words, 2 sentences, and 28 unique words to test the technical exercise.
+Third line
+Fourth line
+Fifth line
+Sixth line
+Seventh line
+Eighth line
+Ninth line
+Tenth line
+etc.
