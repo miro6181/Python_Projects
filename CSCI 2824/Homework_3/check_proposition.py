@@ -1,16 +1,11 @@
-# Homework 2 number 16 - Not correct
+# Homework 2 number 16 - Done
 
 def check_proposition(lst):
     for i in lst:
-        if i % 2 == 0:
-            for j in lst:
-                if i == 2*j:
-                    return True
-                    break
-                else:
-                    continue
+        if i % 2 == 0 and (i / 2) not in lst:
+            return False
+    return True
 
-    return False
-
-
-print(check_proposition([-2,-1,0,1,3,4]))
+# Testing
+print(check_proposition([-2, -1, 0, 1, 2, 3]))
+print(check_proposition([-2, -1, 0, 1, 3, 4]))
