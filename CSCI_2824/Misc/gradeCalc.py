@@ -4,8 +4,8 @@ def gradeCalc(hws, quizlets, midterm_1, midterm_2, final):
     for hw in hws:
         hw_sum += hw
     hw_avg = hw_sum/(len(hws) * 50)
-    quizlet_sum = 0
 
+    quizlet_sum = 0
     for quiz in quizlets:
         quizlet_sum += quiz
     quizlet_avg = quizlet_sum/(len(quizlets) * 5)
