@@ -42,4 +42,9 @@ def gradeCalc(hws, quizlets, midterm_1, midterm_2, final):
     return "Your Grade is: " + letter + " (" + str((float(grade)) * 100) + " %" + ")"
 
 
-print(gradeCalc([30.00, 33.00, 45.00, 44.00, 36.00, 44.00, 44.33, 38.00, 41.00, 38.00, 41.83], [2.50, 3.00, 5.00, 5.00, 5.00, 5.00, 5.00, 3.33, 5.00, 5.00, 5.00, 5.00, 3.33], 62, 51, 62))
+print(gradeCalc([45.00, 44.00, 36.00, 44.00, 44.33, 38.00, 41.00, 38.00, 41.83, 40], [5.00, 5.00, 5.00, 5.00, 5.00, 3.33, 5.00, 5.00, 5.00, 5.00, 3.33], 62, 51, 62)) #Grade with an Estimate for HW12, and a 1% increase from Arkive
+
+
+#Lowest Two Grades Dropped
+#2.50, 3.00
+#30.00, 33.00
