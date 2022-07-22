@@ -1,0 +1,86 @@
+{
+    "participants": [
+        {
+            "name": "Michael",
+            "household": "ME",
+            "prior_assignments": [
+                "Care",
+                "Mark",
+                "Lucy"
+            ]
+        },
+        {
+            "name": "Ellie",
+            "household": "ME",
+            "prior_assignments": [
+                "Gracie",
+                "Jake",
+                "Mark"
+            ]
+        },
+        {
+            "name": "Lucy",
+            "household": "LJ",
+            "prior_assignments": [
+                "Mark",
+                "Ellie",
+                "Jake"
+            ]
+        },
+        {
+            "name": "Josh",
+            "household": "LJ",
+            "prior_assignments": [
+                "Jake",
+                "Annika",
+                "Care"
+            ]
+        },
+        {
+            "name": "Gracie",
+            "household": "GJ",
+            "prior_assignments": [
+                "Lucy",
+                "Care",
+                "Annika"
+            ]
+        },
+        {
+            "name": "Jake",
+            "household": "GJ",
+            "prior_assignments": [
+                "Josh",
+                "Michael",
+                "Ellie"
+            ]
+        },
+        {
+            "name": "Annika",
+            "household": "A",
+            "prior_assignments": [
+                "Ellie",
+                "Lucy",
+                "Michael"
+            ]
+        },
+        {
+            "name": "Care",
+            "household": "CM",
+            "prior_assignments": [
+                "Michael",
+                "Josh",
+                "Gracie"
+            ]
+        },
+        {
+            "name": "Mark",
+            "household": "CM",
+            "prior_assignments": [
+                "Annika",
+                "Gracie",
+                "Josh"
+            ]
+        }
+    ],
+    "timestamp": "2022-07-22 13:06:52.001373"
+}

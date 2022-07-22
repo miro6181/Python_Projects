@@ -1,0 +1,50 @@
+{
+    "participants": [
+        {
+            "name": "Michael",
+            "household": "ME",
+            "prior_assignments": []
+        },
+        {
+            "name": "Ellie",
+            "household": "ME",
+            "prior_assignments": []
+        },
+        {
+            "name": "Lucy",
+            "household": "LJ",
+            "prior_assignments": []
+        },
+        {
+            "name": "Josh",
+            "household": "LJ",
+            "prior_assignments": []
+        },
+        {
+            "name": "Gracie",
+            "household": "GJ",
+            "prior_assignments": []
+        },
+        {
+            "name": "Jake",
+            "household": "GJ",
+            "prior_assignments": []
+        },
+        {
+            "name": "Annika",
+            "household": "A",
+            "prior_assignments": []
+        },
+        {
+            "name": "Care",
+            "household": "CM",
+            "prior_assignments": []
+        }
+        ,
+        {
+            "name": "Mark",
+            "household": "CM",
+            "prior_assignments": []
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+// 2022 valid json file
+
+{
+    "participants": [
+        {
+            "name": "Michael",
+            "household": "ME",
+            "prior_assignments": ["Phil", "Erik", "Chelsy"]
+        },
+        {
+            "name": "Ellie",
+            "household": "ME",
+            "prior_assignments": ["Reanne", "Chelsy", "Darci"]
+        },
+        {
+            "name": "Darci",
+            "household": "DE",
+            "prior_assignments": ["Chelsy", "Michael", "Reanne"]
+        },
+        {
+            "name": "Erik",
+            "household": "DE",
+            "prior_assignments": ["Ellie", "Phil", "Michael"]
+        },
+        {
+            "name": "Phil",
+            "household": "PC",
+            "prior_assignments": ["Darci", "Reanne", "Erik"]
+        },
+        {
+            "name": "Chelsy",
+            "household": "PC",
+            "prior_assignments": ["Erik", "Darci", "Ellie"]
+        },
+        {
+            "name": "Reanne",
+            "household": "R",
+            "prior_assignments": ["Michael", "Ellie", "Phil"]
+        }
+    ]
+}
