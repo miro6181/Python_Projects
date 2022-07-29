@@ -10,7 +10,7 @@ def generate_order(in_players):
     order = dict(zip(in_players, rand_nums))
     res = {k: v for k, v in sorted(order.items(), key=lambda item: item[1])}
     for player in res:
-        print(f'{player}: {res[player]}')
+        print(f'{res[player]}. {player}')
 
 if __name__ == '__main__':
     argparser = argparse.ArgumentParser()
