@@ -4,10 +4,15 @@ import random
 import argparse
 
 def generate_order(in_players):
-    num_players = len(in_players)
-    rand_nums = random.sample(range(1, num_players + 1), num_players)
+    rand_nums = list(range(1, len(in_players) + 1))
+    
+    # Randomize: shuffle numbers and players list 1000 times
+    for i in range(1000):
+        random.shuffle(rand_nums)
+        random.shuffle(in_players)
 
     order = dict(zip(in_players, rand_nums))
+    # Sort by draft number and print
     res = {k: v for k, v in sorted(order.items(), key=lambda item: item[1])}
     for player in res:
         print(f'{res[player]}. {player}')
