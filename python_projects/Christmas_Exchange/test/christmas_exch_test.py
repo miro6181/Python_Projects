@@ -1,7 +1,10 @@
 #! /usr/bin/python3
 
 import unittest
+import sys
 
+# not great, but needed for WSL
+sys.path.append("/mnt/d/Python_Projects/python_projects/Christmas_Exchange")
 from christmas_exchange import ChristmasExchange, Participant
 
 class ParticipantTest(unittest.TestCase):

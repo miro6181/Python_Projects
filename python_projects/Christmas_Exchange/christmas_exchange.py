@@ -68,10 +68,8 @@ class ChristmasExchange():
             participant.add_to_prior()
 
     def print_assignments(self):
-        out_dict = {}
         for assignment in self.assignments:
-            out_dict[assignment.name] = self.assignments[assignment].name
-        print(out_dict)
+            print(f'{assignment.name} : {self.assignments[assignment].name}')
 
     def load_participants(self, participants):
         out_particpants = []
