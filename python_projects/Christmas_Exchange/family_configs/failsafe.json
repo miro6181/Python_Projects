@@ -1,4 +1,4 @@
-// 2022 valid json file
+// 2022 valid json file for Rogers
 
 {
     "participants": [
@@ -36,6 +36,131 @@
             "name": "Reanne",
             "household": "R",
             "prior_assignments": ["Michael", "Ellie", "Phil"]
+        }
+    ]
+}
+
+// 2022 valid json file for Raaum
+
+{
+    "participants": [
+        {
+            "name": "Michael",
+            "household": "ME",
+            "prior_assignments": []
+        },
+        {
+            "name": "Ellie",
+            "household": "ME",
+            "prior_assignments": []
+        },
+        {
+            "name": "Lucy",
+            "household": "LJ",
+            "prior_assignments": []
+        },
+        {
+            "name": "Josh",
+            "household": "LJ",
+            "prior_assignments": []
+        },
+        {
+            "name": "Gracie",
+            "household": "GJ",
+            "prior_assignments": []
+        },
+        {
+            "name": "Jake",
+            "household": "GJ",
+            "prior_assignments": []
+        },
+        {
+            "name": "Annika",
+            "household": "A",
+            "prior_assignments": []
+        },
+        {
+            "name": "Care",
+            "household": "CM",
+            "prior_assignments": []
+        }
+        ,
+        {
+            "name": "Mark",
+            "household": "CM",
+            "prior_assignments": []
+        }
+    ]
+}
+
+// 2022 valid json file for Loyd
+
+{
+    "participants": [
+        {
+            "name": "Darci",
+            "household": "DE",
+            "prior_assignments": ["Vicki", "Nickolle", "Brent"]
+        },
+        {
+            "name": "Erik",
+            "household": "DE",
+            "prior_assignments": ["Amanda", "Lisa", "Christien"]
+        },
+        {
+            "name": "Todd",
+            "household": "TJ",
+            "prior_assignments": ["Karina", "Madison", "Nickolle"]
+        },
+        {
+            "name": "Jessica",
+            "household": "TJ",
+            "prior_assignments": ["Christien", "Amanda", "Vicki"]
+        },
+        {
+            "name": "David",
+            "household": "DV",
+            "prior_assignments": ["Todd", "Darci", "Jessica"]
+        },
+        {
+            "name": "Vicki",
+            "household": "DV",
+            "prior_assignments": ["Erik", "Brent", "Amanda"]
+        },
+        {
+            "name": "Madison",
+            "household": "M",
+            "prior_assignments": ["Brent", "Erik", "Karina"]
+        },
+        {
+            "name": "Lisa",
+            "household": "L",
+            "prior_assignments": ["Nickolle", "Christien", "Darci"]
+        },
+        {
+            "name": "Nickolle",
+            "household": "N",
+            "prior_assignments": ["Jessica", "Vicki", "Madison"]
+        },
+        {
+            "name": "Amanda",
+            "household": "A",
+            "prior_assignments": ["Madison", "Todd", "David"]
+        },
+        {
+            "name": "Christien",
+            "household": "C",
+            "prior_assignments": ["David", "Karina", "Lisa"]
+        },
+        {
+            "name": "Brent",
+            "household": "BK",
+            "prior_assignments": ["Darci", "David", "Todd"]
+        },
+        {
+            "name": "Karina",
+            "household": "BK",
+            "prior_assignments": ["Lisa", "Jessica", "Erik"]
         }
     ]
 }
