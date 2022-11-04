@@ -3,48 +3,59 @@
         {
             "name": "Michael",
             "household": "ME",
-            "prior_assignments": []
+            "prior_assignments": [
+                "Annika"
+            ]
         },
         {
             "name": "Ellie",
             "household": "ME",
-            "prior_assignments": []
+            "prior_assignments": [
+                "Lucy"
+            ]
         },
         {
             "name": "Lucy",
             "household": "LJ",
-            "prior_assignments": []
+            "prior_assignments": [
+                "Mark"
+            ]
         },
         {
             "name": "Josh",
             "household": "LJ",
-            "prior_assignments": []
+            "prior_assignments": [
+                "Michael"
+            ]
         },
         {
             "name": "Gracie",
-            "household": "GJ",
-            "prior_assignments": []
-        },
-        {
-            "name": "Jake",
-            "household": "GJ",
-            "prior_assignments": []
+            "household": "G",
+            "prior_assignments": [
+                "Ellie"
+            ]
         },
         {
             "name": "Annika",
             "household": "A",
-            "prior_assignments": []
+            "prior_assignments": [
+                "Care"
+            ]
         },
         {
             "name": "Care",
             "household": "CM",
-            "prior_assignments": []
-        }
-        ,
+            "prior_assignments": [
+                "Josh"
+            ]
+        },
         {
             "name": "Mark",
             "household": "CM",
-            "prior_assignments": []
+            "prior_assignments": [
+                "Gracie"
+            ]
         }
-    ]
+    ],
+    "timestamp": "2022-11-04 11:55:01.906389"
 }

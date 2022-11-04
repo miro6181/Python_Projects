@@ -3,67 +3,120 @@
         {
             "name": "Darci",
             "household": "DE",
-            "prior_assignments": ["Vicki", "Nickolle", "Brent"]
+            "prior_assignments": [
+                "Madison",
+                "Vicki",
+                "Nickolle"
+            ]
         },
         {
             "name": "Erik",
             "household": "DE",
-            "prior_assignments": ["Amanda", "Lisa", "Christien"]
+            "prior_assignments": [
+                "Vicki",
+                "Amanda",
+                "Lisa"
+            ]
         },
         {
             "name": "Todd",
             "household": "TJ",
-            "prior_assignments": ["Karina", "Madison", "Nickolle"]
+            "prior_assignments": [
+                "David",
+                "Karina",
+                "Madison"
+            ]
         },
         {
             "name": "Jessica",
             "household": "TJ",
-            "prior_assignments": ["Christien", "Amanda", "Vicki"]
+            "prior_assignments": [
+                "Brent",
+                "Christien",
+                "Amanda"
+            ]
         },
         {
             "name": "David",
-            "household": "DV",
-            "prior_assignments": ["Todd", "Darci", "Jessica"]
+            "household": "DVML",
+            "prior_assignments": [
+                "Amanda",
+                "Todd",
+                "Darci"
+            ]
         },
         {
             "name": "Vicki",
-            "household": "DV",
-            "prior_assignments": ["Erik", "Brent", "Amanda"]
+            "household": "DVML",
+            "prior_assignments": [
+                "Nickolle",
+                "Erik",
+                "Brent"
+            ]
         },
         {
             "name": "Madison",
-            "household": "M",
-            "prior_assignments": ["Brent", "Erik", "Karina"]
+            "household": "DVML",
+            "prior_assignments": [
+                "Todd",
+                "Brent",
+                "Erik"
+            ]
         },
         {
             "name": "Lisa",
-            "household": "L",
-            "prior_assignments": ["Nickolle", "Christien", "Darci"]
+            "household": "DVML",
+            "prior_assignments": [
+                "Karina",
+                "Nickolle",
+                "Christien"
+            ]
         },
         {
             "name": "Nickolle",
-            "household": "N",
-            "prior_assignments": ["Jessica", "Vicki", "Madison"]
+            "household": "NAC",
+            "prior_assignments": [
+                "Erik",
+                "Jessica",
+                "Vicki"
+            ]
         },
         {
             "name": "Amanda",
-            "household": "A",
-            "prior_assignments": ["Madison", "Todd", "David"]
+            "household": "NAC",
+            "prior_assignments": [
+                "Lisa",
+                "Madison",
+                "Todd"
+            ]
         },
         {
             "name": "Christien",
-            "household": "C",
-            "prior_assignments": ["David", "Karina", "Lisa"]
+            "household": "NAC",
+            "prior_assignments": [
+                "Jessica",
+                "David",
+                "Karina"
+            ]
         },
         {
             "name": "Brent",
             "household": "BK",
-            "prior_assignments": ["Darci", "David", "Todd"]
+            "prior_assignments": [
+                "Christien",
+                "Darci",
+                "David"
+            ]
         },
         {
             "name": "Karina",
             "household": "BK",
-            "prior_assignments": ["Lisa", "Jessica", "Erik"]
+            "prior_assignments": [
+                "Darci",
+                "Lisa",
+                "Jessica"
+            ]
         }
-    ]
+    ],
+    "timestamp": "2022-08-18 20:54:36.300337"
 }

@@ -92,7 +92,9 @@ class ChristmasExchange():
                     ts = datetime.strptime(data['timestamp'], '%Y-%m-%d %H:%M:%S.%f')
                     if ts.year == datetime.now().year:
                         print("Already ran the generator this year. Adjust timestamp to override. Here are this year's assignments:\n")
-                        print({participant.name:participant.prior_assignments[0] for participant in out_particpants if participant.prior_assignments})
+                        for participant in out_particpants:
+                            if participant.prior_assignments:
+                                print(f'{participant.name} : {participant.prior_assignments[0]}')
                         exit()
                 except ValueError:
                     print("Corrupted timestamp in config file.")

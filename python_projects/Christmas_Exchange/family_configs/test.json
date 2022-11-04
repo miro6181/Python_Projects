@@ -1,39 +1,122 @@
 {
     "participants": [
         {
-            "name": "Michael",
-            "household": "ME",
-            "prior_assignments": ["Phil", "Erik", "Chelsy"]
-        },
-        {
-            "name": "Ellie",
-            "household": "ME",
-            "prior_assignments": ["Reanne", "Chelsy", "Darci"]
-        },
-        {
             "name": "Darci",
             "household": "DE",
-            "prior_assignments": ["Chelsy", "Michael", "Reanne"]
+            "prior_assignments": [
+                "Jessica",
+                "Madison",
+                "Vicki"
+            ]
         },
         {
             "name": "Erik",
             "household": "DE",
-            "prior_assignments": ["Ellie", "Phil", "Michael"]
+            "prior_assignments": [
+                "Nickolle",
+                "David",
+                "Amanda"
+            ]
         },
         {
-            "name": "Phil",
-            "household": "PC",
-            "prior_assignments": ["Darci", "Reanne", "Erik"]
+            "name": "Todd",
+            "household": "TJ",
+            "prior_assignments": [
+                "Amanda",
+                "Lisa",
+                "Karina"
+            ]
         },
         {
-            "name": "Chelsy",
-            "household": "PC",
-            "prior_assignments": ["Erik", "Darci", "Ellie"]
+            "name": "Jessica",
+            "household": "TJ",
+            "prior_assignments": [
+                "Erik",
+                "Darci",
+                "Christien"
+            ]
         },
         {
-            "name": "Reanne",
-            "household": "R",
-            "prior_assignments": ["Michael", "Ellie", "Phil"]
+            "name": "David",
+            "household": "DVM",
+            "prior_assignments": [
+                "Brent",
+                "Erik",
+                "Todd"
+            ]
+        },
+        {
+            "name": "Vicki",
+            "household": "DVM",
+            "prior_assignments": [
+                "Todd",
+                "Christien",
+                "Erik"
+            ]
+        },
+        {
+            "name": "Madison",
+            "household": "DVM",
+            "prior_assignments": [
+                "Christien",
+                "Jessica",
+                "Brent"
+            ]
+        },
+        {
+            "name": "Lisa",
+            "household": "L",
+            "prior_assignments": [
+                "Karina",
+                "Brent",
+                "Nickolle"
+            ]
+        },
+        {
+            "name": "Nickolle",
+            "household": "N",
+            "prior_assignments": [
+                "David",
+                "Karina",
+                "Jessica"
+            ]
+        },
+        {
+            "name": "Amanda",
+            "household": "A",
+            "prior_assignments": [
+                "Lisa",
+                "Vicki",
+                "Madison"
+            ]
+        },
+        {
+            "name": "Christien",
+            "household": "C",
+            "prior_assignments": [
+                "Darci",
+                "Amanda",
+                "David"
+            ]
+        },
+        {
+            "name": "Brent",
+            "household": "BK",
+            "prior_assignments": [
+                "Madison",
+                "Nickolle",
+                "Darci"
+            ]
+        },
+        {
+            "name": "Karina",
+            "household": "BK",
+            "prior_assignments": [
+                "Vicki",
+                "Todd",
+                "Lisa"
+            ]
         }
-    ]
+    ],
+    "timestamp": "2022-11-04 12:02:32.501461"
 }

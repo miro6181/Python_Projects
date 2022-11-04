@@ -66,12 +66,7 @@
         },
         {
             "name": "Gracie",
-            "household": "GJ",
-            "prior_assignments": []
-        },
-        {
-            "name": "Jake",
-            "household": "GJ",
+            "household": "G",
             "prior_assignments": []
         },
         {
@@ -119,37 +114,37 @@
         },
         {
             "name": "David",
-            "household": "DV",
+            "household": "DVML",
             "prior_assignments": ["Todd", "Darci", "Jessica"]
         },
         {
             "name": "Vicki",
-            "household": "DV",
+            "household": "DVML",
             "prior_assignments": ["Erik", "Brent", "Amanda"]
         },
         {
             "name": "Madison",
-            "household": "M",
+            "household": "DVML",
             "prior_assignments": ["Brent", "Erik", "Karina"]
         },
         {
             "name": "Lisa",
-            "household": "L",
+            "household": "DVML",
             "prior_assignments": ["Nickolle", "Christien", "Darci"]
         },
         {
             "name": "Nickolle",
-            "household": "N",
+            "household": "NAC",
             "prior_assignments": ["Jessica", "Vicki", "Madison"]
         },
         {
             "name": "Amanda",
-            "household": "A",
+            "household": "NAC",
             "prior_assignments": ["Madison", "Todd", "David"]
         },
         {
             "name": "Christien",
-            "household": "C",
+            "household": "NAC",
             "prior_assignments": ["David", "Karina", "Lisa"]
         },
         {

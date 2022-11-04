@@ -3,37 +3,66 @@
         {
             "name": "Michael",
             "household": "ME",
-            "prior_assignments": ["Phil", "Erik", "Chelsy"]
+            "prior_assignments": [
+                "Darci",
+                "Phil",
+                "Erik"
+            ]
         },
         {
             "name": "Ellie",
             "household": "ME",
-            "prior_assignments": ["Reanne", "Chelsy", "Darci"]
+            "prior_assignments": [
+                "Erik",
+                "Reanne",
+                "Chelsy"
+            ]
         },
         {
             "name": "Darci",
             "household": "DE",
-            "prior_assignments": ["Chelsy", "Michael", "Reanne"]
+            "prior_assignments": [
+                "Phil",
+                "Chelsy",
+                "Michael"
+            ]
         },
         {
             "name": "Erik",
             "household": "DE",
-            "prior_assignments": ["Ellie", "Phil", "Michael"]
+            "prior_assignments": [
+                "Reanne",
+                "Ellie",
+                "Phil"
+            ]
         },
         {
             "name": "Phil",
             "household": "PC",
-            "prior_assignments": ["Darci", "Reanne", "Erik"]
+            "prior_assignments": [
+                "Ellie",
+                "Darci",
+                "Reanne"
+            ]
         },
         {
             "name": "Chelsy",
             "household": "PC",
-            "prior_assignments": ["Erik", "Darci", "Ellie"]
+            "prior_assignments": [
+                "Michael",
+                "Erik",
+                "Darci"
+            ]
         },
         {
             "name": "Reanne",
             "household": "R",
-            "prior_assignments": ["Michael", "Ellie", "Phil"]
+            "prior_assignments": [
+                "Chelsy",
+                "Michael",
+                "Ellie"
+            ]
         }
-    ]
+    ],
+    "timestamp": "2022-08-18 20:56:57.007485"
 }
